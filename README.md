@@ -1,1 +1,2 @@
-i am a #cohort_12 batch of ALX
+My first readme Updated
+
